@@ -1,0 +1,22 @@
+segment_sources:
+  P2BA28241:
+    type: origin_type
+    relation: translation
+    language: en
+  P24A4BC24:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  054d78a1dea549368fc250c33a0d4201:
+    P2BA28241: 2408f0bfff654004a9e6b30d80e0783c
+    P24A4BC24: 5e371a47a15843caa3f9e8669b55dcf1
+  ee22fadc9aca4bf4be9a05fe623615af:
+    P2BA28241: 22f4336e75814b89a8508c1b480bf110
+    P24A4BC24: 30c05e5148dd412499b8afd1c59a8957
+  bb4e47eb5bdc4afa9344b15723221635:
+    P2BA28241: bc00570114b84a5eb4f886b75a8d7358
+    P24A4BC24: 3c79317ff0bb4d8c939dd0eb4c54871e
+  786f08aa421742bfb49715d0f5be8b34:
+    P2BA28241: 10973cd6bb444324a0b543e8b3fd88ee
+    P24A4BC24: f56da580cbd64ffdbd27d32f43aaa9da
